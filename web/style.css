@@ -92,3 +92,9 @@
   from {opacity: .4}
   to {opacity: 3}
 }
+
+#phone-link{
+    position: relative;
+    left: auto;
+    right: 20px;
+}
